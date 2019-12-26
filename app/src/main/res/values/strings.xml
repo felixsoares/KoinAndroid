@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NASA</string>
+    <string name="ops">Ops !!!</string>
+    <string name="some_error_unexpected">Some error unexpected</string>
+    <string name="try_again">try again</string>
+    <string name="click_to_see_video">Click here to see the video</string>
+    <string name="mvp_example">MVP example</string>
+    <string name="mvvm_example">MVVM example</string>
+</resources>
